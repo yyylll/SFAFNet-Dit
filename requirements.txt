@@ -1,0 +1,8 @@
+# SFAFNet-DiT refiner — self-contained release runtime deps
+# (versions are lower bounds; the model was developed on torch 2.x)
+torch>=2.0
+numpy>=1.21
+scipy>=1.7
+h5py>=3.1
+matplotlib>=3.4
+tqdm>=4.60
