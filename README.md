@@ -1,4 +1,4 @@
-# SFAFNet-DiT — Core Reference Implementation (Peer-Review Subset)
+# SFAFNet-DiT
 
 Reference implementation of the core modules of the two-stage SFAFNet-DiT framework, provided to
 support peer review. Reviewers can read and run the novel components. The full training and
