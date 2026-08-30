@@ -1,7 +1,6 @@
 # SFAFNet-DiT
 
-Reference implementation of the core modules of the two-stage SFAFNet-DiT framework, provided to
-support peer review. Reviewers can read and run the novel components. The full training and
+Reference implementation of the core modules of the two-stage SFAFNet-DiT framework, and the full training and
 evaluation pipeline, configurations, and dataset will be released upon acceptance.
 
 ## Contents
